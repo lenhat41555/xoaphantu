@@ -1,0 +1,13 @@
+C:\LN\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.exe
+C:\LN\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.deps.json
+C:\LN\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.runtimeconfig.json
+C:\LN\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.runtimeconfig.dev.json
+C:\LN\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.dll
+C:\LN\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.pdb
+C:\LN\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.csprojAssemblyReference.cache
+C:\LN\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.AssemblyInfoInputs.cache
+C:\LN\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.AssemblyInfo.cs
+C:\LN\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.csproj.CoreCompileInputs.cache
+C:\LN\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.dll
+C:\LN\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.pdb
+C:\LN\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.genruntimeconfig.cache
